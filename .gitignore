@@ -1,0 +1,13 @@
+# Build output
+target/
+build/
+.gradle/
+
+# Transient SmartUnit caches and locks
+.smartunit/
+
+# Editor / platform
+*.iml
+.idea/
+.vscode/
+.DS_Store
